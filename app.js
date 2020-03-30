@@ -29,6 +29,7 @@ bt.onclick = function() {
                 }
                 else if(send.status == 200)
                 {
+                    alert("This was made by YosBoi and Invictus aka Future-kun")
                     window.location.href = link;
                 }
             }
